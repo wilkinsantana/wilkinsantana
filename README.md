@@ -151,11 +151,11 @@ graph LR
     <img src="https://img.shields.io/badge/wilkinsantana.com-Portfolio-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/wilkinsantana">
+  <a href="https://www.linkedin.com/in/wilkin-santana/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" />
   </a>
   &nbsp;
-  <a href="https://x.com/wilkinsantana">
+  <a href="https://x.com/rubiteve">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D0D0D" />
   </a>
   &nbsp;
