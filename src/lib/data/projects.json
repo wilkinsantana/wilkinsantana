@@ -40,6 +40,26 @@
     "stars": 0
   },
   {
+    "id": "narrio",
+    "title": "Narrio / VocastStory",
+    "description": "AI-powered multi-character audiobook and story creator. 20+ TTS engines, 3 specialized AI agents, voice cloning, and an autonomous production pipeline that takes a story from text to fully narrated audio — with distinct characters, pacing, and production quality.",
+    "tags": ["AI Agents", "TTS", "Voice Cloning", "Python", "Autonomous Pipeline"],
+    "url": "https://github.com/wilkinsantana/Narrio",
+    "live": "https://vocastory.com",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "radioguide",
+    "title": "The Radio Guide",
+    "description": "A live radio show schedule browser — discover shows, browse 24-hour schedules by location and day, and stream stations worldwide. Desktop grid and mobile timeline views, geolocation filtering, full-text search, 14 languages, and community-driven show submissions.",
+    "tags": ["Next.js", "TypeScript", "HLS.js", "PostgreSQL", "Prisma", "i18n"],
+    "url": "https://github.com/wilkinsantana/RadioGuide",
+    "live": "https://theradioguide.com",
+    "featured": true,
+    "stars": 0
+  },
+  {
     "id": "wilkinsantana",
     "title": "wilkinsantana.com",
     "description": "This very site — a cinematic personal portfolio built with SvelteKit, TailwindCSS, and mdsvex. Dark/light theme, scroll animations, full blog system. Open source.",
