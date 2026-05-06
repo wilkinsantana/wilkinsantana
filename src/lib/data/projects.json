@@ -1,5 +1,25 @@
 [
   {
+    "id": "radiodune",
+    "title": "RadioDune",
+    "description": "Make Radio Cool Again. A unified audio platform with 50,000+ live radio stations across 200+ countries, a 100K+ podcast catalog, AI-powered recommendations, real-time ICY/HLS metadata, and full support for 14 languages. Progressive web app built to stream anything, anywhere.",
+    "tags": ["Next.js", "React", "PostgreSQL", "Redis", "pgvector", "AI", "HLS.js", "Docker"],
+    "url": "https://github.com/wilkinsantana/radio-portal",
+    "live": "https://radiodune.com",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "ondacast",
+    "title": "OndaCast",
+    "description": "A radio station and podcast directory built for the web and Smart TV. Designed for the living room and the browser simultaneously — browse, discover, and stream radio and podcasts on any screen.",
+    "tags": ["Smart TV", "Radio", "Podcasts", "Streaming", "TypeScript"],
+    "url": "https://github.com/wilkinsantana",
+    "live": "https://ondacast.com",
+    "featured": true,
+    "stars": 0
+  },
+  {
     "id": "tend-host",
     "title": "tend.host",
     "description": "Managed hosting where AI agents handle the operations layer. The idea: your servers, running themselves — smarter. Built with SvelteKit, Claude API, and a lot of conviction that hosting doesn't have to be a headache.",
@@ -14,7 +34,7 @@
     "title": "tenddash",
     "description": "A unified command center for your digital infrastructure. Bring clarity to the chaos — deployments, uptime, alerts, and analytics in one place. Currently in active development.",
     "tags": ["SvelteKit", "TypeScript", "PostgreSQL", "Node.js", "AI"],
-    "url": "https://github.com/wilkinsantana/tenddash",
+    "url": "https://github.com/wilkinsantana/TendDash",
     "live": "",
     "featured": true,
     "stars": 0
@@ -26,7 +46,7 @@
     "tags": ["SvelteKit", "TypeScript", "TailwindCSS", "mdsvex"],
     "url": "https://github.com/wilkinsantana/wilkinsantana",
     "live": "https://wilkinsantana.com",
-    "featured": true,
+    "featured": false,
     "stars": 0
   },
   {
