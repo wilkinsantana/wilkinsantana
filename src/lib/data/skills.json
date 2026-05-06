@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "name": "AI & Agentic Systems",
+      "skills": ["Claude API", "GPT-4 / OpenAI", "AI Agents", "MCP Servers", "LangChain", "Ollama", "Prompt Engineering", "Claude Code"]
+    },
+    {
+      "name": "Development",
+      "skills": ["TypeScript", "JavaScript", "Python", "SvelteKit", "React", "Node.js", "SQL", "REST APIs"]
+    },
+    {
+      "name": "Infrastructure",
+      "skills": ["AWS", "Docker", "GitHub Actions", "Linux", "PostgreSQL", "Vercel", "Networking", "DNS"]
+    },
+    {
+      "name": "Military & Field Tech",
+      "skills": ["Drone Operations", "Signal Blocking / SIGINT", "Satellite Communications", "RF Systems", "Field Electronics", "Radio Comms"]
+    },
+    {
+      "name": "Aerial & Photography",
+      "skills": ["360° Photography", "Aerial Videography", "DJI Drones", "Insta360", "Photogrammetry", "Visual Storytelling"]
+    },
+    {
+      "name": "Hardware & Networking",
+      "skills": ["Computer Hardware", "PC Building", "Network Setup & Config", "Troubleshooting", "Home Lab"]
+    }
+  ]
+}

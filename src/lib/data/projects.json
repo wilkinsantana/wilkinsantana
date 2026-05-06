@@ -1,0 +1,82 @@
+[
+  {
+    "id": "radiodune",
+    "title": "RadioDune",
+    "description": "Make Radio Cool Again. A unified audio platform with 50,000+ live radio stations across 200+ countries, a 100K+ podcast catalog, AI-powered recommendations, real-time ICY/HLS metadata, and full support for 14 languages. Progressive web app built to stream anything, anywhere.",
+    "tags": ["Next.js", "React", "PostgreSQL", "Redis", "pgvector", "AI", "HLS.js", "Docker"],
+    "url": "https://github.com/wilkinsantana/radio-portal",
+    "live": "https://radiodune.com",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "ondacast",
+    "title": "OndaCast",
+    "description": "A radio station and podcast directory built for the web and Smart TV. Designed for the living room and the browser simultaneously — browse, discover, and stream radio and podcasts on any screen.",
+    "tags": ["Smart TV", "Radio", "Podcasts", "Streaming", "TypeScript"],
+    "url": "https://github.com/wilkinsantana",
+    "live": "https://ondacast.com",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "tend-host",
+    "title": "tend.host",
+    "description": "Managed hosting where AI agents handle the operations layer. The idea: your servers, running themselves — smarter. Built with SvelteKit, Claude API, and a lot of conviction that hosting doesn't have to be a headache.",
+    "tags": ["SvelteKit", "Claude API", "AI Agents", "TypeScript", "Docker"],
+    "url": "https://github.com/wilkinsantana/tend.host",
+    "live": "https://tend.host",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "tenddash",
+    "title": "tenddash",
+    "description": "A unified command center for your digital infrastructure. Bring clarity to the chaos — deployments, uptime, alerts, and analytics in one place. Currently in active development.",
+    "tags": ["SvelteKit", "TypeScript", "PostgreSQL", "Node.js", "AI"],
+    "url": "https://github.com/wilkinsantana/TendDash",
+    "live": "",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "narrio",
+    "title": "Narrio / VocastStory",
+    "description": "AI-powered multi-character audiobook and story creator. 20+ TTS engines, 3 specialized AI agents, voice cloning, and an autonomous production pipeline that takes a story from text to fully narrated audio — with distinct characters, pacing, and production quality.",
+    "tags": ["AI Agents", "TTS", "Voice Cloning", "Python", "Autonomous Pipeline"],
+    "url": "https://github.com/wilkinsantana/Narrio",
+    "live": "https://vocastory.com",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "radioguide",
+    "title": "The Radio Guide",
+    "description": "A live radio show schedule browser — discover shows, browse 24-hour schedules by location and day, and stream stations worldwide. Desktop grid and mobile timeline views, geolocation filtering, full-text search, 14 languages, and community-driven show submissions.",
+    "tags": ["Next.js", "TypeScript", "HLS.js", "PostgreSQL", "Prisma", "i18n"],
+    "url": "https://github.com/wilkinsantana/RadioGuide",
+    "live": "https://theradioguide.com",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "wilkinsantana",
+    "title": "wilkinsantana.com",
+    "description": "This very site — a cinematic personal portfolio built with SvelteKit, TailwindCSS, and mdsvex. Dark/light theme, scroll animations, full blog system. Open source.",
+    "tags": ["SvelteKit", "TypeScript", "TailwindCSS", "mdsvex"],
+    "url": "https://github.com/wilkinsantana/wilkinsantana",
+    "live": "https://wilkinsantana.com",
+    "featured": false,
+    "stars": 0
+  },
+  {
+    "id": "360-photography",
+    "title": "360° Aerial Portfolio",
+    "description": "An ongoing visual project — 360° and aerial photography capturing landscapes, moments, and places most people only see from one angle. Because perspective matters.",
+    "tags": ["360° Photography", "Drones", "DJI", "Insta360"],
+    "url": "https://github.com/wilkinsantana",
+    "live": "",
+    "featured": false,
+    "stars": 0
+  }
+]
