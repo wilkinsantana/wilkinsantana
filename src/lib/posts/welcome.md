@@ -81,7 +81,7 @@ This blog is where I'll think out loud about:
 - **360° photography and aerial work** — because not everything has to be about code
 - And whatever else feels worth writing down
 
-If you've read this far, I'd love to hear from you. Hit [contact@wilkinsantana.com](mailto:contact@wilkinsantana.com) — I read everything.
+If you've read this far, I'd love to hear from you. Hit [hello@wilkinsantana.com](mailto:hello@wilkinsantana.com) — I read everything.
 
 Welcome to the site. Let's build something worth building.
 
