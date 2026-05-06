@@ -5,14 +5,14 @@
 
 <svelte:head>
   <title>About — Wilkin Santana</title>
-  <meta name="description" content="Learn about Wilkin Santana — creative technologist, engineer, and builder." />
+  <meta name="description" content="Retired US Army veteran, AI engineer, track & field champion, father of four, and man with a cat named Bailey. The full story." />
 </svelte:head>
 
 <div class="page">
   <!-- Page header -->
   <div class="page-hero container">
     <p class="section-label">About Me</p>
-    <h1 class="page-title font-display">The person<br/>behind the work</h1>
+    <h1 class="page-title font-display">From El Campo<br/>to the cloud.</h1>
   </div>
 
   <!-- Story -->
@@ -21,46 +21,110 @@
       <div class="story-portrait">
         <div use:reveal class="portrait-wrap">
           <img
-            src="/images/avatar.svg"
+            src="https://avatars.githubusercontent.com/u/28665914?s=400&v=4"
             alt="Wilkin Santana"
             class="portrait"
             width="400"
             height="400"
           />
-          <!-- Replace /images/avatar.svg with your actual portrait -->
+        </div>
+        <div use:reveal class="portrait-meta">
+          <div class="meta-item">
+            <span class="meta-label">Origin</span>
+            <span class="meta-val">El Campo, Dominican Republic</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Based</span>
+            <span class="meta-val">United States</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Service</span>
+            <span class="meta-val">US Army — Retired</span>
+          </div>
+          <div class="meta-item">
+            <span class="meta-label">Currently building</span>
+            <span class="meta-val">tend.host &amp; tenddash</span>
+          </div>
         </div>
       </div>
 
       <div class="story-text">
         <p use:reveal class="lead">
-          <!-- ✏️ EDIT: Replace with your opening statement -->
-          I'm a creative technologist who believes that the best software is made at the intersection of
-          rigorous engineering and genuine human understanding.
+          I grew up in El Campo in the Dominican Republic, moved to the States in 2000,
+          deployed to Afghanistan twice, won track &amp; field championships in Puerto Rico,
+          and somehow ended up building AI agents for a living.
+          Life is not linear — and that's the interesting part.
         </p>
 
         <div use:reveal class="body-text">
           <p>
-            <!-- ✏️ EDIT: Replace with your story -->
-            My path into technology wasn't linear. It started with curiosity — about how things work, why
-            systems behave the way they do, and what makes a piece of software feel genuinely good to use.
-            That curiosity has never left me.
+            Before I wrote a single line of production code, I spent over a decade in the United States Army.
+            Two combat deployments to Afghanistan. Signal operations, drone programs, satellite communications,
+            SIGINT. The Army has a way of teaching you that <em>systems either work or people get hurt</em> —
+            and that lesson never left me.
           </p>
           <p>
-            Over the years I've built products across the full stack — from pixel-perfect UIs to distributed
-            backend systems — always with the same question in mind: <em>does this feel right?</em>
+            After hanging up the uniform, I pursued what I'd always loved: technology — formally this time.
+            I studied Business Administration with an Information Systems concentration at
+            Universidad del Turabo in Gurabo, Puerto Rico (now part of SUAGM / Ana G. Méndez University).
+            And while I was there, I also happened to win Triple Jump and Long Jump at
+            <em>Las Justas</em> every year I competed, took silver in the Decathlon, and represented the
+            Dominican Republic nationally as a track &amp; field athlete. You know, casually.
           </p>
           <p>
-            Beyond the code, I care deeply about communication, craft, and the long-term health of the
-            systems and teams I work with. I believe in writing that a reader can trust, architecture that
-            can change, and interfaces that respect the people who use them.
+            These days my sprint is in AI and agentic systems. I'm deep in Claude API, MCP servers,
+            and building products where agents do <em>real work</em> — not just generate text.
+            Currently: tend.host (AI-driven hosting operations) and tenddash (infrastructure command center).
+            Both are shipping. Both are ambitious. That's how I like it.
+          </p>
+          <p>
+            Life also gave me four great kids: Catherine, whom I had when I was 17
+            (life had its own timeline — I've made peace with it and turned it into a story I'm proud of),
+            and then Wilkin Jr., Alex, and my youngest, Liberty, who has declared my free time a
+            nationally protected territory under her jurisdiction. My cat Bailey is currently
+            filing diplomatic complaints about Liberty's monopoly on my attention.
+            Negotiations are ongoing.
+          </p>
+          <p>
+            When I'm not building or being drafted into tea parties, I fly drones, shoot 360° photography,
+            and hit the gym. The camera and the barbell are the two things that reliably clear my head.
           </p>
         </div>
 
         <div use:reveal class="values">
-          {#each ['Craft over cleverness', 'Systems thinking', 'Human-centered design', 'Continuous learning'] as value}
+          {#each [
+            'Veteran. Builder. Dad.',
+            'Systems that actually work',
+            'AI with real-world purpose',
+            'Aerial perspective',
+            'Always learning',
+            'Two deployments. Zero drama.'
+          ] as value}
             <span class="value-chip">{value}</span>
           {/each}
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Fun facts strip -->
+  <section class="facts-strip">
+    <div class="container facts-row">
+      <div use:reveal class="fact">
+        <div class="fact-num">10+</div>
+        <div class="fact-label">Years in the Army</div>
+      </div>
+      <div use:reveal={{ delay: 100 }} class="fact">
+        <div class="fact-num">2</div>
+        <div class="fact-label">Combat deployments</div>
+      </div>
+      <div use:reveal={{ delay: 200 }} class="fact">
+        <div class="fact-num">4</div>
+        <div class="fact-label">Kids (and one cat)</div>
+      </div>
+      <div use:reveal={{ delay: 300 }} class="fact">
+        <div class="fact-num">∞</div>
+        <div class="fact-label">Liberty's energy</div>
       </div>
     </div>
   </section>
@@ -92,10 +156,9 @@
       <div use:reveal class="mission-block">
         <p class="mission-label">Mission</p>
         <blockquote class="mission-quote font-display">
-          <!-- ✏️ EDIT: Replace with your personal mission statement -->
-          "To build things that matter — digital experiences that carry
-          intention in every detail and leave the world slightly better
-          than I found it."
+          "I've operated in places where technology meant survival. That shapes
+          how I build — with intention, with clarity, and with total intolerance
+          for things that don't work."
         </blockquote>
         <a href="/contact" class="btn btn-primary">Work With Me</a>
       </div>
@@ -150,6 +213,38 @@
     border-radius: 4px;
   }
 
+  .portrait-meta {
+    margin-top: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    max-width: 340px;
+  }
+
+  .meta-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .meta-label {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-2);
+    flex-shrink: 0;
+  }
+
+  .meta-val {
+    font-size: 0.82rem;
+    color: var(--text);
+    text-align: right;
+  }
+
   .lead {
     font-family: 'Cormorant Garamond', Georgia, serif;
     font-size: clamp(1.25rem, 2.5vw, 1.65rem);
@@ -187,6 +282,37 @@
     border: 1px solid var(--border);
     color: var(--text-2);
     letter-spacing: 0.02em;
+  }
+
+  /* Facts strip */
+  .facts-strip {
+    background: var(--bg-2);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    padding: 3.5rem 0;
+  }
+
+  .facts-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    text-align: center;
+  }
+
+  .fact-num {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: clamp(2.5rem, 5vw, 3.5rem);
+    font-weight: 400;
+    color: var(--accent);
+    line-height: 1;
+    margin-bottom: 0.5rem;
+  }
+
+  .fact-label {
+    font-size: 0.78rem;
+    color: var(--text-2);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
   }
 
   /* Skills */
@@ -269,6 +395,10 @@
 
     .portrait-wrap {
       max-width: 240px;
+    }
+
+    .facts-row {
+      grid-template-columns: repeat(2, 1fr);
     }
   }
 </style>

@@ -57,8 +57,8 @@
 
         <div use:reveal class="email-cta">
           <!-- ✏️ EDIT: Replace with your actual email address -->
-          <a href="mailto:hello@wilkinsantana.com" class="email-link">
-            hello@wilkinsantana.com
+          <a href="mailto:contact@wilkinsantana.com" class="email-link">
+            contact@wilkinsantana.com
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
               <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
               <polyline points="15 3 21 3 21 9"/>
@@ -94,8 +94,7 @@
         <!-- Availability note -->
         <div use:reveal class="avail-badge">
           <div class="avail-dot" aria-hidden="true"></div>
-          <!-- ✏️ EDIT: Update your current availability status -->
-          <span>Currently open to select freelance and consulting work</span>
+          <span>Currently building tend.host &amp; tenddash — open to AI consulting</span>
         </div>
       </div>
     </div>

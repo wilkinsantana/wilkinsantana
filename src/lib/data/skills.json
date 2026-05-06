@@ -1,28 +1,28 @@
 {
   "categories": [
     {
-      "name": "Languages",
-      "skills": ["TypeScript", "JavaScript", "Python", "SQL", "Bash"]
+      "name": "AI & Agentic Systems",
+      "skills": ["Claude API", "GPT-4 / OpenAI", "AI Agents", "MCP Servers", "LangChain", "Ollama", "Prompt Engineering", "Claude Code"]
     },
     {
-      "name": "Frontend",
-      "skills": ["Svelte / SvelteKit", "React", "Next.js", "TailwindCSS", "CSS / SCSS"]
-    },
-    {
-      "name": "Backend",
-      "skills": ["Node.js", "Express", "FastAPI", "PostgreSQL", "Redis"]
+      "name": "Development",
+      "skills": ["TypeScript", "JavaScript", "Python", "SvelteKit", "React", "Node.js", "SQL", "REST APIs"]
     },
     {
       "name": "Infrastructure",
-      "skills": ["AWS", "Docker", "GitHub Actions", "Vercel", "Linux"]
+      "skills": ["AWS", "Docker", "GitHub Actions", "Linux", "PostgreSQL", "Vercel", "Networking", "DNS"]
     },
     {
-      "name": "Design",
-      "skills": ["Figma", "Motion Design", "Typography", "UI / UX", "Brand Systems"]
+      "name": "Military & Field Tech",
+      "skills": ["Drone Operations", "Signal Blocking / SIGINT", "Satellite Communications", "RF Systems", "Field Electronics", "Radio Comms"]
     },
     {
-      "name": "Craft",
-      "skills": ["System Design", "Technical Writing", "Mentorship", "Code Review", "Problem Solving"]
+      "name": "Aerial & Photography",
+      "skills": ["360° Photography", "Aerial Videography", "DJI Drones", "Insta360", "Photogrammetry", "Visual Storytelling"]
+    },
+    {
+      "name": "Hardware & Networking",
+      "skills": ["Computer Hardware", "PC Building", "Network Setup & Config", "Troubleshooting", "Home Lab"]
     }
   ]
 }

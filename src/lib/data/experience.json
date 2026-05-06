@@ -1,46 +1,35 @@
 [
   {
     "id": "1",
-    "role": "[Your Current Role]",
-    "company": "[Company Name]",
-    "companyUrl": "https://example.com",
+    "role": "Founder & AI Engineer",
+    "company": "Independent — tend.host / tenddash",
+    "companyUrl": "https://tend.host",
     "period": "2023 — Present",
     "location": "Remote",
-    "description": "Replace with your actual role description. Focus on impact over duties — what did you build, ship, or change? What was different because you were there?",
+    "description": "Building AI-powered SaaS products from the ground up. Designing systems where agents do real work — not just answer questions. Currently shipping tend.host (managed hosting with agentic ops) and tenddash (a command center for your digital infrastructure). Every line of code is intentional.",
     "achievements": [
-      "Built X system that improved Y by Z%",
-      "Led initiative that shipped N features to N users",
-      "Mentored junior engineers and established team standards"
+      "Architecting tend.host — a hosting platform with AI agents baked into the operations layer",
+      "Building tenddash — a unified dashboard that brings clarity to complex infrastructure",
+      "Deep in Claude API, MCP servers, and agentic workflow design",
+      "Shipping SvelteKit + AI stacks that would make a senior engineer raise an eyebrow"
     ],
-    "tech": ["TypeScript", "React", "AWS", "PostgreSQL"]
+    "tech": ["TypeScript", "SvelteKit", "Claude API", "MCP", "Node.js", "PostgreSQL", "Docker"]
   },
   {
     "id": "2",
-    "role": "[Previous Role]",
-    "company": "[Previous Company]",
-    "companyUrl": "https://example.com",
-    "period": "2021 — 2023",
-    "location": "New York, NY",
-    "description": "Describe your growth and the problems you solved here. What did you learn? What are you most proud of from this chapter?",
+    "role": "Non-Commissioned Officer — Signal & Technology",
+    "company": "United States Army",
+    "companyUrl": "https://www.army.mil",
+    "period": "2002 — 2014",
+    "location": "Multiple — including Bagram & Kandahar, Afghanistan",
+    "description": "Served 10+ years on active duty, including two deployments to combat zones in Afghanistan. Specialized in technology, communications, and field operations. The Army taught me more about systems, leadership, and staying calm under pressure than any bootcamp ever could.",
     "achievements": [
-      "Shipped feature X used by N monthly active users",
-      "Improved system performance by reducing latency by N ms",
-      "Collaborated across engineering, design, and product"
+      "Completed two combat deployments to Afghanistan — Operation Enduring Freedom",
+      "Trained in drone operations, signal jamming, and satellite communications technology",
+      "Led teams under pressure in environments where downtime has a very different meaning",
+      "Earned multiple commendations for technical proficiency and operational leadership",
+      "Retired honorably after a decade of service — with both the medals and the stories"
     ],
-    "tech": ["JavaScript", "Node.js", "React", "MongoDB", "Redis"]
-  },
-  {
-    "id": "3",
-    "role": "[First Professional Role]",
-    "company": "[First Company]",
-    "companyUrl": "https://example.com",
-    "period": "2020 — 2021",
-    "location": "Remote",
-    "description": "Where did you start? What were the foundational lessons from your first professional chapter?",
-    "achievements": [
-      "Contributed to production codebase within first month",
-      "Shipped N features across the product lifecycle"
-    ],
-    "tech": ["JavaScript", "HTML", "CSS", "Git", "REST APIs"]
+    "tech": ["Drone Operations", "SATCOM", "Signal Blocking", "RF Systems", "Field Comms", "SIGINT"]
   }
 ]

@@ -7,15 +7,15 @@
 </script>
 
 <svelte:head>
-  <title>Wilkin Santana — Creative Technologist</title>
-  <meta name="description" content="Wilkin Santana is a creative technologist, engineer, and builder of digital experiences that live at the intersection of technology and meaning." />
-  <meta property="og:title" content="Wilkin Santana — Creative Technologist" />
-  <meta property="og:description" content="Builder of digital experiences at the intersection of technology, design, and human meaning." />
+  <title>Wilkin Santana — AI Engineer & Veteran Builder</title>
+  <meta name="description" content="Retired US Army veteran, AI & agentic systems engineer, and builder of digital products. Currently shipping tend.host and tenddash." />
+  <meta property="og:title" content="Wilkin Santana — AI Engineer & Veteran Builder" />
+  <meta property="og:description" content="Retired US Army veteran. AI & agentic systems engineer. Currently building tend.host and tenddash." />
   <meta property="og:url" content="https://wilkinsantana.com" />
   <meta property="og:type" content="website" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Wilkin Santana" />
-  <meta name="twitter:description" content="Creative Technologist. Builder. Storyteller." />
+  <meta name="twitter:description" content="Veteran. AI Engineer. Builder. Father of four (and one very opinionated cat)." />
 </svelte:head>
 
 <!-- ─── HERO ─────────────────────────────────────────────── -->
@@ -32,7 +32,7 @@
     <div class="avatar-wrap">
       <div class="avatar-ring" aria-hidden="true"></div>
       <img
-        src="/images/avatar.svg"
+        src="https://avatars.githubusercontent.com/u/28665914?s=400&v=4"
         alt="Wilkin Santana"
         class="avatar"
         width="130"
@@ -50,8 +50,8 @@
       </h1>
 
       <p class="tagline">
-        Builder of digital experiences at the intersection<br />
-        of technology, design, and human meaning.
+        Veteran. AI engineer. Builder of things that actually work.<br />
+        Currently shipping <a href="https://tend.host" class="tagline-link" target="_blank" rel="noopener">tend.host</a> &amp; tenddash.
       </p>
 
       <div class="cta-row">
@@ -73,24 +73,24 @@
   <div class="container">
     <div class="stats-row">
       <div use:reveal={{ delay: 0 }} class="stat">
-        <div class="stat-num">∞</div>
-        <div class="stat-label">Curiosity</div>
+        <div class="stat-num">10+</div>
+        <div class="stat-label">Army years</div>
       </div>
       <div use:reveal={{ delay: 120 }} class="stat">
-        <div class="stat-num">01</div>
-        <div class="stat-label">Focus</div>
+        <div class="stat-num">2</div>
+        <div class="stat-label">Deployments</div>
       </div>
       <div use:reveal={{ delay: 240 }} class="stat">
-        <div class="stat-num">∴</div>
-        <div class="stat-label">Craft</div>
+        <div class="stat-num">∞</div>
+        <div class="stat-label">Liberty's energy</div>
       </div>
     </div>
 
     <div use:reveal class="quote-block">
       <blockquote>
-        "I believe in building things that matter — software that feels alive,
-        systems that respect their users, and work that carries intention
-        in every detail."
+        "I've been in places where technology meant survival. That shapes
+        how I build — with intention, with precision, and with zero
+        tolerance for things that don't work."
       </blockquote>
       <cite>— Wilkin Santana</cite>
     </div>
@@ -108,18 +108,18 @@
     <div class="cards">
       <div use:reveal class="card glass">
         <span class="card-num">01</span>
-        <h3 class="card-title">Web Applications</h3>
-        <p class="card-body">Full-stack products built with modern frameworks, optimized for performance and real human use.</p>
+        <h3 class="card-title">AI & Agentic Systems</h3>
+        <p class="card-body">Agents that do real work. Claude API, MCP servers, and workflows where the AI earns its keep — not just talks about it.</p>
       </div>
       <div use:reveal={{ delay: 120 }} class="card glass">
         <span class="card-num">02</span>
-        <h3 class="card-title">Systems & APIs</h3>
-        <p class="card-body">Scalable backend systems, elegant APIs, and infrastructure that holds up in the real world.</p>
+        <h3 class="card-title">SaaS Products</h3>
+        <p class="card-body">Full-stack applications built with SvelteKit, TypeScript, and a military-grade intolerance for things that break in production.</p>
       </div>
       <div use:reveal={{ delay: 240 }} class="card glass">
         <span class="card-num">03</span>
-        <h3 class="card-title">Design Systems</h3>
-        <p class="card-body">Cohesive visual languages and component libraries that scale across teams and products.</p>
+        <h3 class="card-title">Aerial & Visual</h3>
+        <p class="card-body">360° photography and drone cinematography. Because some perspectives only exist when you're above the noise.</p>
       </div>
     </div>
 
@@ -266,6 +266,18 @@
     animation: fadeUp 1s cubic-bezier(0.16, 1, 0.3, 1) 0.72s forwards;
     -webkit-text-stroke: 1px rgba(232, 232, 248, 0.4);
     color: transparent;
+  }
+
+  .tagline-link {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: var(--accent-dim);
+    text-underline-offset: 3px;
+    transition: text-decoration-color var(--t);
+  }
+
+  .tagline-link:hover {
+    text-decoration-color: var(--accent);
   }
 
   .tagline {

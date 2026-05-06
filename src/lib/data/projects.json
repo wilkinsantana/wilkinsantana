@@ -1,40 +1,40 @@
 [
   {
+    "id": "tend-host",
+    "title": "tend.host",
+    "description": "Managed hosting where AI agents handle the operations layer. The idea: your servers, running themselves — smarter. Built with SvelteKit, Claude API, and a lot of conviction that hosting doesn't have to be a headache.",
+    "tags": ["SvelteKit", "Claude API", "AI Agents", "TypeScript", "Docker"],
+    "url": "https://github.com/wilkinsantana/tend.host",
+    "live": "https://tend.host",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "tenddash",
+    "title": "tenddash",
+    "description": "A unified command center for your digital infrastructure. Bring clarity to the chaos — deployments, uptime, alerts, and analytics in one place. Currently in active development.",
+    "tags": ["SvelteKit", "TypeScript", "PostgreSQL", "Node.js", "AI"],
+    "url": "https://github.com/wilkinsantana/tenddash",
+    "live": "",
+    "featured": true,
+    "stars": 0
+  },
+  {
     "id": "wilkinsantana",
     "title": "wilkinsantana.com",
-    "description": "This very site — a cinematic personal portfolio built with SvelteKit, TailwindCSS, and a lot of intention.",
-    "tags": ["SvelteKit", "TypeScript", "TailwindCSS"],
+    "description": "This very site — a cinematic personal portfolio built with SvelteKit, TailwindCSS, and mdsvex. Dark/light theme, scroll animations, full blog system. Open source.",
+    "tags": ["SvelteKit", "TypeScript", "TailwindCSS", "mdsvex"],
     "url": "https://github.com/wilkinsantana/wilkinsantana",
     "live": "https://wilkinsantana.com",
     "featured": true,
     "stars": 0
   },
   {
-    "id": "project-alpha",
-    "title": "[Project Name]",
-    "description": "Replace this with your project description. What does it do? What problem does it solve? What makes it worth building?",
-    "tags": ["TypeScript", "React", "Node.js"],
-    "url": "https://github.com/wilkinsantana/project-name",
-    "live": "",
-    "featured": true,
-    "stars": 0
-  },
-  {
-    "id": "project-beta",
-    "title": "[Another Project]",
-    "description": "A second project you're proud of. Describe the challenge and what you built to solve it.",
-    "tags": ["Python", "FastAPI", "PostgreSQL"],
-    "url": "https://github.com/wilkinsantana/another-project",
-    "live": "",
-    "featured": true,
-    "stars": 0
-  },
-  {
-    "id": "project-gamma",
-    "title": "[Third Project]",
-    "description": "Showcase the range of your work. Add the real GitHub URL and a description that captures what makes this project interesting.",
-    "tags": ["Svelte", "TailwindCSS", "Firebase"],
-    "url": "https://github.com/wilkinsantana/third-project",
+    "id": "360-photography",
+    "title": "360° Aerial Portfolio",
+    "description": "An ongoing visual project — 360° and aerial photography capturing landscapes, moments, and places most people only see from one angle. Because perspective matters.",
+    "tags": ["360° Photography", "Drones", "DJI", "Insta360"],
+    "url": "https://github.com/wilkinsantana",
     "live": "",
     "featured": false,
     "stars": 0

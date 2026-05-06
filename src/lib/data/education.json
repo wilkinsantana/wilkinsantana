@@ -1,24 +1,24 @@
 [
   {
     "id": "1",
-    "degree": "[Your Degree]",
-    "field": "[Field of Study]",
-    "institution": "[University or Institution Name]",
-    "period": "2016 — 2020",
-    "location": "[City, State]",
-    "description": "Add a brief description of your academic experience. Notable projects, research, activities, or what drew you to this field.",
-    "honors": "[Dean's List / Honors / Scholarship / etc. — remove line if not applicable]",
-    "relevant": ["Data Structures & Algorithms", "Systems Programming", "Software Engineering", "Databases"]
+    "degree": "B.S. Business Administration",
+    "field": "Information Systems",
+    "institution": "Universidad del Turabo (now SUAGM / Ana G. Méndez University)",
+    "period": "2014 — 2018",
+    "location": "Gurabo, Puerto Rico",
+    "description": "Business Administration with a concentration in Information Systems. Also happened to be a track and field athlete — won Triple Jump and Long Jump at Las Justas every single year the university put me on the track. Took silver in the Decathlon. Represented the Dominican Republic as a national athlete. The classroom was great, but the track was where things got serious.",
+    "honors": "Las Justas Champion — Triple Jump & Long Jump (multiple years) · National Athlete — Dominican Republic · Decathlon Silver Medalist",
+    "relevant": ["Information Systems", "Business Administration", "Database Management", "Systems Analysis", "Project Management"]
   },
   {
     "id": "2",
-    "degree": "[Certification or Course]",
-    "field": "[Certification Name]",
-    "institution": "[Issuing Organization]",
-    "period": "2022",
-    "location": "Online",
-    "description": "Any certifications, bootcamps, or formal training worth highlighting. Remove this entry if not applicable.",
-    "honors": "",
-    "relevant": []
+    "degree": "Military Training & Certifications",
+    "field": "Technology, Signals & Operations",
+    "institution": "United States Army",
+    "period": "2002 — 2014",
+    "location": "Various — Fort Bragg, Afghanistan, and beyond",
+    "description": "Over a decade of hands-on technical training in environments where getting it wrong is not an option. Certified in drone operations, satellite communications, signal jamming, and field electronics. The Army is the world's most intense tech bootcamp — and it doesn't give you a certificate, it gives you perspective.",
+    "honors": "Combat Action · Multiple Service Commendations",
+    "relevant": ["Drone Operations", "Satellite Technology", "Signal Blocking", "RF Communications", "Field Electronics", "Team Leadership"]
   }
 ]
