@@ -1,205 +1,170 @@
-# wilkinsantana.com
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1a1a2e,7C6AFF&height=220&section=header&text=Wilkin%20Santana&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Veteran%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&descColor=a89cff" width="100%" />
+</div>
 
-Personal website and portfolio for **Wilkin Santana** — creative technologist, engineer, and builder.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=7C6AFF&center=true&vCenter=true&width=780&lines=Building+AI+agents+that+actually+do+real+work...;Retired+US+Army+%E2%80%94+10%2B+years+%7C+2+deployments+to+Afghanistan.;Shipping+tend.host+%26+tenddash+%F0%9F%9A%80;RadioDune+%E2%80%94+50%2C000%2B+stations%2C+100K%2B+podcasts%2C+14+languages.;360%C2%B0+photographer+%2F+drone+pilot+%2F+gym+guy.;Father+of+four+%2B+one+very+opinionated+cat+named+Bailey." alt="Typing SVG" />
+</div>
 
-Built with SvelteKit, TailwindCSS, TypeScript, and mdsvex.
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "I've been in places where technology meant survival.      ║
+║    That shapes how I build — with intention, with            ║
+║    precision, and with zero tolerance for things             ║
+║    that don't work."                                         ║
+║                                                 — Wilkin S.  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎖️_US_Army-Veteran-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/🤖_Agentic-AI_Engineer-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/🚁_Drone-Pilot_&_360°-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/🇩🇴_El_Campo-Dominican_Republic-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
+</div>
+
+<br/>
 
 ---
 
-## Quick start
+## ⚡ The Agentic Loop
 
-```bash
-npm install
-npm run dev
+> This is how I think about building with AI — not autocomplete, but autonomous systems that think, act, observe, and improve.
+
+```mermaid
+graph LR
+    A(💭 THINK) --> B(🔧 TOOL USE)
+    B --> C(👁️ OBSERVE)
+    C --> D(🧠 REASON)
+    D --> E{Goal met?}
+    E -- No --> B
+    E -- Yes --> F(✅ DONE)
+
+    style A fill:#1a1a2e,stroke:#7C6AFF,color:#a89cff
+    style B fill:#1a1a2e,stroke:#7C6AFF,color:#a89cff
+    style C fill:#1a1a2e,stroke:#7C6AFF,color:#a89cff
+    style D fill:#1a1a2e,stroke:#7C6AFF,color:#a89cff
+    style E fill:#0D0D0D,stroke:#7C6AFF,color:#ffffff
+    style F fill:#1a3a1a,stroke:#22c55e,color:#22c55e
 ```
-
-Open [http://localhost:5173](http://localhost:5173).
 
 ---
 
-## How to edit content
+## 🚀 Currently Shipping
 
-All site content lives in plain files — no CMS, no database, no magic.
-
-### Your profile picture
-
-Replace the placeholder avatar:
-
-1. Add your photo to `static/images/avatar.jpg` (or `.png`, `.webp`)
-2. Open `src/routes/+page.svelte` and `src/routes/about/+page.svelte`
-3. Update `src="/images/avatar.svg"` → `src="/images/avatar.jpg"`
-
-### Projects — `src/lib/data/projects.json`
-
-```json
-{
-  "id": "unique-id",
-  "title": "Project Name",
-  "description": "What it does and why it matters.",
-  "tags": ["TypeScript", "React"],
-  "url": "https://github.com/wilkinsantana/project",
-  "live": "https://live-url.com",
-  "featured": true,
-  "stars": 0
-}
-```
-
-Set `"featured": true` to show it in the top grid. Set `"stars"` to display a star count.
-
-### Experience — `src/lib/data/experience.json`
-
-```json
-{
-  "id": "1",
-  "role": "Senior Engineer",
-  "company": "Acme Corp",
-  "companyUrl": "https://acme.com",
-  "period": "2023 — Present",
-  "location": "Remote",
-  "description": "What you did and why it mattered.",
-  "achievements": ["Built X", "Shipped Y"],
-  "tech": ["TypeScript", "AWS"]
-}
-```
-
-### Education — `src/lib/data/education.json`
-
-```json
-{
-  "id": "1",
-  "degree": "B.S. Computer Science",
-  "field": "Computer Science",
-  "institution": "University Name",
-  "period": "2016 — 2020",
-  "location": "City, State",
-  "description": "What you studied.",
-  "honors": "Dean's List",
-  "relevant": ["Algorithms", "Systems"]
-}
-```
-
-### Skills — `src/lib/data/skills.json`
-
-Edit the `categories` array. Add or rename categories and skills freely.
-
-### Contact info — `src/routes/contact/+page.svelte`
-
-Update your email address: find `mailto:hello@wilkinsantana.com` and replace it.
-
-Update your social links: find the `socials` array at the top of the file.
-
-### Update social links in footer
-
-Open `src/lib/components/layout/Footer.svelte` and update the `href` values in the `socials` array.
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="8">
+    <tr>
+      <td align="center">
+        <a href="https://tend.host">
+          <img src="https://img.shields.io/badge/tend.host-AI--Powered_Hosting-7C6AFF?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0D0D" /><br/>
+          <sub>AI agents handle your ops layer</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://radiodune.com">
+          <img src="https://img.shields.io/badge/RadioDune-50K%2B_Stations-7C6AFF?style=for-the-badge&logo=musicbrainz&logoColor=white&labelColor=0D0D0D" /><br/>
+          <sub>Make Radio Cool Again</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://vocastory.com">
+          <img src="https://img.shields.io/badge/VocaStory-AI_Audiobooks-7C6AFF?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=0D0D0D" /><br/>
+          <sub>20+ TTS engines · voice cloning</sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://theradioguide.com">
+          <img src="https://img.shields.io/badge/RadioGuide-Show_Schedules-7C6AFF?style=for-the-badge&logo=rss&logoColor=white&labelColor=0D0D0D" /><br/>
+          <sub>24hr grid · 14 languages</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://ondacast.com">
+          <img src="https://img.shields.io/badge/OndaCast-Smart_TV_Radio-7C6AFF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D0D0D" /><br/>
+          <sub>Web & Smart TV podcast directory</sub>
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/tenddash-Infra_Dashboard-7C6AFF?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0D0D0D" /><br/>
+        <sub>In active development 🔧</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## Blog posts
+## 🛠️ Stack
 
-Blog posts are Markdown files in `src/lib/posts/`. Every `.md` file becomes a post automatically.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,svelte,react,nextjs&theme=dark&perline=6" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,docker,aws,linux&theme=dark&perline=6" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,tailwind,prisma,cloudflare&theme=dark&perline=6" />
+</div>
 
-### Create a new post
+<br/>
 
-1. Create `src/lib/posts/my-post-slug.md`
-2. Add frontmatter at the top:
-
-```md
----
-title: "Your Post Title"
-date: "2025-06-01"
-excerpt: "A one or two sentence description shown in the post listing."
-tags: ["engineering", "design"]
----
-
-Your content here. Standard Markdown works: **bold**, *italic*, [links](https://example.com), `code`, etc.
-```
-
-3. The post appears at `/blog/my-post-slug` immediately.
-
-**Tips:**
-- Use `date: "YYYY-MM-DD"` format so sorting works correctly
-- The `excerpt` appears in the post listing — make it worth reading
-- Tags are displayed as chips; use consistent naming
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude_API-Agentic_Systems-7C6AFF?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/MCP_Servers-Tool_Use-7C6AFF?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/AI_Agents-Autonomous_Loops-7C6AFF?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Drone_Ops-Military_Trained-7C6AFF?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/SATCOM-Signal_Tech-7C6AFF?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/360°_Photo-Insta360_·_DJI-7C6AFF?style=flat-square&labelColor=0D0D0D" />
+</div>
 
 ---
 
-## Deployment
+## 📊 Stats
 
-### GitHub Pages (automated)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilkinsantana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C6AFF&icon_color=7C6AFF&text_color=a89cff&ring_color=7C6AFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wilkinsantana&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7C6AFF&fire=7C6AFF&currStreakLabel=a89cff&sideLabels=a89cff&currStreakNum=ffffff&sideNums=ffffff&dates=666688" width="48%" />
+</div>
 
-Every push to `main` triggers the GitHub Actions workflow in `.github/workflows/deploy.yml`, which builds and deploys to GitHub Pages automatically.
-
-**Setup (one time):**
-
-1. Go to your repo on GitHub → Settings → Pages
-2. Set Source to **GitHub Actions**
-3. Push to `main` — the site deploys automatically
-
-### Custom domain
-
-The `static/CNAME` file already contains `wilkinsantana.com`. Once DNS is pointed at GitHub Pages (A records or CNAME), the domain will resolve.
-
-GitHub Pages DNS records:
-```
-A    185.199.108.153
-A    185.199.109.153
-A    185.199.110.153
-A    185.199.111.153
-```
-
-Or a CNAME record pointing to `wilkinsantana.github.io`.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkinsantana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C6AFF&text_color=a89cff&langs_count=8" width="48%" />
+</div>
 
 ---
 
-## Before you publish — checklist
+## 📡 Connect
 
-- [ ] Replace `static/images/avatar.svg` with your real photo
-- [ ] Fill in `src/lib/data/experience.json` with real roles
-- [ ] Fill in `src/lib/data/education.json` with your education
-- [ ] Fill in `src/lib/data/projects.json` with real projects
-- [ ] Update `src/lib/data/skills.json` with your actual skill set
-- [ ] Update the email in `src/routes/contact/+page.svelte`
-- [ ] Update social links in `src/routes/contact/+page.svelte` and `src/lib/components/layout/Footer.svelte`
-- [ ] Write your real About page text in `src/routes/about/+page.svelte` (look for `<!-- ✏️ EDIT -->` comments)
-- [ ] Replace or personalize the blog post in `src/lib/posts/hello-world.md`
-- [ ] Verify GitHub Pages source is set to **GitHub Actions**
-- [ ] Enable HTTPS in GitHub Pages settings once DNS resolves
+<div align="center">
+  <a href="https://wilkinsantana.com">
+    <img src="https://img.shields.io/badge/wilkinsantana.com-Portfolio-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/wilkinsantana">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/wilkinsantana">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D0D0D" />
+  </a>
+  &nbsp;
+  <a href="mailto:hello@wilkinsantana.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-7C6AFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D" />
+  </a>
+</div>
 
----
+<br/>
 
-## Tech stack
-
-| Layer | Choice |
-|---|---|
-| Framework | SvelteKit 2 |
-| Styling | TailwindCSS 3 + CSS custom properties |
-| Language | TypeScript |
-| Blog | mdsvex (Markdown → Svelte) |
-| Build | Vite 5 |
-| Adapter | `@sveltejs/adapter-static` |
-| Deployment | GitHub Pages via Actions |
-| Fonts | Cormorant Garamond · Inter · JetBrains Mono |
-
----
-
-## Project structure
-
-```
-src/
-├── lib/
-│   ├── actions/        # Svelte actions (scroll reveal)
-│   ├── components/     # Reusable components
-│   │   ├── layout/     # Header, Footer
-│   │   ├── ui/         # ThemeToggle, etc.
-│   │   └── blog/       # PostLayout
-│   ├── data/           # ← Edit these JSON files to update content
-│   ├── posts/          # ← Add .md files here to publish blog posts
-│   ├── stores/         # theme store
-│   └── utils/          # reading time, date formatting
-├── routes/             # Pages (one folder per route)
-└── app.{html,css}      # HTML shell and global styles
-static/
-├── CNAME               # Custom domain
-├── favicon.svg
-└── images/             # Put your avatar here
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C6AFF,1a1a2e,0D0D0D&height=140&section=footer" width="100%" />
+</div>
