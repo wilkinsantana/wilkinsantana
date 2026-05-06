@@ -86,6 +86,13 @@
             Negotiations are ongoing.
           </p>
           <p>
+            Keeping all of this from descending into complete chaos is my wife, <strong>Kiara Santana</strong> —
+            Liberty's mom, the reason this household has any structure whatsoever, and the only person on earth
+            who can out-negotiate Bailey <em>and</em> Liberty simultaneously. I would say I don't know what
+            I'd do without her, but honestly I think the house would just be a drone parts warehouse by now.
+            She keeps me straight. I'm legally required to mention that.
+          </p>
+          <p>
             When I'm not building or being drafted into tea parties, I fly drones, shoot 360° photography,
             and hit the gym. The camera and the barbell are the two things that reliably clear my head.
           </p>

@@ -41,7 +41,7 @@
   },
   {
     "id": "narrio",
-    "title": "Narrio / VocastStory",
+    "title": "Narrio / VocaStory",
     "description": "AI-powered multi-character audiobook and story creator. 20+ TTS engines, 3 specialized AI agents, voice cloning, and an autonomous production pipeline that takes a story from text to fully narrated audio — with distinct characters, pacing, and production quality.",
     "tags": ["AI Agents", "TTS", "Voice Cloning", "Python", "Autonomous Pipeline"],
     "url": "https://github.com/wilkinsantana/Narrio",
