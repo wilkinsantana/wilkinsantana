@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1a1a2e,7C6AFF&height=220&section=header&text=Wilkin%20Santana&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Veteran%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&descColor=a89cff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1a1a2e,7C6AFF&height=220&section=header&text=Wilkin%20Santana&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Combat%20Engineer%20%E2%86%92%20AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Veteran&descAlignY=58&descSize=18&descColor=a89cff" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=7C6AFF&center=true&vCenter=true&width=780&lines=Building+AI+agents+that+actually+do+real+work...;Retired+US+Army+%E2%80%94+10%2B+years+%7C+2+deployments+to+Afghanistan.;Shipping+tend.host+%26+tenddash+%F0%9F%9A%80;RadioDune+%E2%80%94+50%2C000%2B+stations%2C+100K%2B+podcasts%2C+14+languages.;360%C2%B0+photographer+%2F+drone+pilot+%2F+gym+guy.;Father+of+four+%2B+one+very+opinionated+cat+named+Bailey." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=7C6AFF&center=true&vCenter=true&width=780&lines=From+Combat+Engineer+to+AI+Engineer.;Building+AI+agents+that+actually+do+real+work...;US+Army+%E2%80%94+10%2B+years+%7C+2+deployments+to+Afghanistan.;Shipping+tend.host+%26+tenddash+%F0%9F%9A%80;RadioDune+%E2%80%94+50%2C000%2B+stations%2C+100K%2B+podcasts%2C+14+languages.;360%C2%B0+photographer+%2F+drone+pilot+%2F+gym+guy.;Father+of+four+%2B+one+very+opinionated+cat+named+Bailey." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎖️_US_Army-Veteran-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/🎖️_Combat_Engineer-US_Army_Veteran-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
   <img src="https://img.shields.io/badge/🤖_Agentic-AI_Engineer-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
   <img src="https://img.shields.io/badge/🚁_Drone-Pilot_&_360°-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
   <img src="https://img.shields.io/badge/🇩🇴_El_Campo-Dominican_Republic-7C6AFF?style=for-the-badge&labelColor=0D0D0D" />
