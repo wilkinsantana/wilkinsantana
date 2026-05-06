@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1440"/>
+      <stop offset="100%" stop-color="#0e0e1e"/>
+    </linearGradient>
+    <linearGradient id="initials" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a597ff"/>
+      <stop offset="100%" stop-color="#7c6aff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="rgba(124,106,255,0.25)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="100" fill="url(#bg)"/>
+  <circle cx="100" cy="100" r="100" fill="url(#glow)"/>
+  <!-- Replace this SVG with your actual portrait photo -->
+  <!-- Instructions: place your photo at static/images/avatar.jpg and update the src in Hero.svelte -->
+  <text
+    x="100" y="118"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="62"
+    font-weight="400"
+    fill="url(#initials)"
+    opacity="0.9"
+  >WS</text>
+  <text
+    x="100" y="155"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="10"
+    fill="rgba(255,255,255,0.3)"
+    letter-spacing="2"
+  >PLACEHOLDER</text>
+</svg>

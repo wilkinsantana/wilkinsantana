@@ -1,0 +1,42 @@
+[
+  {
+    "id": "wilkinsantana",
+    "title": "wilkinsantana.com",
+    "description": "This very site — a cinematic personal portfolio built with SvelteKit, TailwindCSS, and a lot of intention.",
+    "tags": ["SvelteKit", "TypeScript", "TailwindCSS"],
+    "url": "https://github.com/wilkinsantana/wilkinsantana",
+    "live": "https://wilkinsantana.com",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "project-alpha",
+    "title": "[Project Name]",
+    "description": "Replace this with your project description. What does it do? What problem does it solve? What makes it worth building?",
+    "tags": ["TypeScript", "React", "Node.js"],
+    "url": "https://github.com/wilkinsantana/project-name",
+    "live": "",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "project-beta",
+    "title": "[Another Project]",
+    "description": "A second project you're proud of. Describe the challenge and what you built to solve it.",
+    "tags": ["Python", "FastAPI", "PostgreSQL"],
+    "url": "https://github.com/wilkinsantana/another-project",
+    "live": "",
+    "featured": true,
+    "stars": 0
+  },
+  {
+    "id": "project-gamma",
+    "title": "[Third Project]",
+    "description": "Showcase the range of your work. Add the real GitHub URL and a description that captures what makes this project interesting.",
+    "tags": ["Svelte", "TailwindCSS", "Firebase"],
+    "url": "https://github.com/wilkinsantana/third-project",
+    "live": "",
+    "featured": false,
+    "stars": 0
+  }
+]

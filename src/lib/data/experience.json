@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "role": "[Your Current Role]",
+    "company": "[Company Name]",
+    "companyUrl": "https://example.com",
+    "period": "2023 — Present",
+    "location": "Remote",
+    "description": "Replace with your actual role description. Focus on impact over duties — what did you build, ship, or change? What was different because you were there?",
+    "achievements": [
+      "Built X system that improved Y by Z%",
+      "Led initiative that shipped N features to N users",
+      "Mentored junior engineers and established team standards"
+    ],
+    "tech": ["TypeScript", "React", "AWS", "PostgreSQL"]
+  },
+  {
+    "id": "2",
+    "role": "[Previous Role]",
+    "company": "[Previous Company]",
+    "companyUrl": "https://example.com",
+    "period": "2021 — 2023",
+    "location": "New York, NY",
+    "description": "Describe your growth and the problems you solved here. What did you learn? What are you most proud of from this chapter?",
+    "achievements": [
+      "Shipped feature X used by N monthly active users",
+      "Improved system performance by reducing latency by N ms",
+      "Collaborated across engineering, design, and product"
+    ],
+    "tech": ["JavaScript", "Node.js", "React", "MongoDB", "Redis"]
+  },
+  {
+    "id": "3",
+    "role": "[First Professional Role]",
+    "company": "[First Company]",
+    "companyUrl": "https://example.com",
+    "period": "2020 — 2021",
+    "location": "Remote",
+    "description": "Where did you start? What were the foundational lessons from your first professional chapter?",
+    "achievements": [
+      "Contributed to production codebase within first month",
+      "Shipped N features across the product lifecycle"
+    ],
+    "tech": ["JavaScript", "HTML", "CSS", "Git", "REST APIs"]
+  }
+]

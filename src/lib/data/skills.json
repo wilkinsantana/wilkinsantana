@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "skills": ["TypeScript", "JavaScript", "Python", "SQL", "Bash"]
+    },
+    {
+      "name": "Frontend",
+      "skills": ["Svelte / SvelteKit", "React", "Next.js", "TailwindCSS", "CSS / SCSS"]
+    },
+    {
+      "name": "Backend",
+      "skills": ["Node.js", "Express", "FastAPI", "PostgreSQL", "Redis"]
+    },
+    {
+      "name": "Infrastructure",
+      "skills": ["AWS", "Docker", "GitHub Actions", "Vercel", "Linux"]
+    },
+    {
+      "name": "Design",
+      "skills": ["Figma", "Motion Design", "Typography", "UI / UX", "Brand Systems"]
+    },
+    {
+      "name": "Craft",
+      "skills": ["System Design", "Technical Writing", "Mentorship", "Code Review", "Problem Solving"]
+    }
+  ]
+}

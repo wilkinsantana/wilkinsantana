@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "degree": "[Your Degree]",
+    "field": "[Field of Study]",
+    "institution": "[University or Institution Name]",
+    "period": "2016 — 2020",
+    "location": "[City, State]",
+    "description": "Add a brief description of your academic experience. Notable projects, research, activities, or what drew you to this field.",
+    "honors": "[Dean's List / Honors / Scholarship / etc. — remove line if not applicable]",
+    "relevant": ["Data Structures & Algorithms", "Systems Programming", "Software Engineering", "Databases"]
+  },
+  {
+    "id": "2",
+    "degree": "[Certification or Course]",
+    "field": "[Certification Name]",
+    "institution": "[Issuing Organization]",
+    "period": "2022",
+    "location": "Online",
+    "description": "Any certifications, bootcamps, or formal training worth highlighting. Remove this entry if not applicable.",
+    "honors": "",
+    "relevant": []
+  }
+]
