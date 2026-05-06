@@ -133,12 +133,13 @@ graph LR
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilkinsantana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C6AFF&icon_color=7C6AFF&text_color=a89cff&ring_color=7C6AFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wilkinsantana&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7C6AFF&fire=7C6AFF&currStreakLabel=a89cff&sideLabels=a89cff&currStreakNum=ffffff&sideNums=ffffff&dates=666688" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wilkinsantana&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7C6AFF&fire=7C6AFF&currStreakLabel=a89cff&sideLabels=a89cff&currStreakNum=ffffff&sideNums=ffffff&dates=666688" width="60%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkinsantana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C6AFF&text_color=a89cff&langs_count=8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wilkinsantana&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wilkinsantana&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wilkinsantana&theme=tokyonight&hide_border=true&utcOffset=-5" width="32%" />
 </div>
 
 ---
