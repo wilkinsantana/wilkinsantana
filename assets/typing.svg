@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="46" viewBox="0 0 780 46" role="img" aria-labelledby="title desc">
+  <title id="title">Wilkin Santana — animated introduction</title>
+  <desc id="desc">A rotating set of statements about Wilkin's engineering, military, and creative work.</desc>
+  <style>
+    text {
+      fill: #a89cff;
+      font: 500 15px "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+      text-anchor: middle;
+    }
+    .line {
+      opacity: 0;
+      animation: reveal 25.2s linear infinite;
+    }
+    .line:nth-of-type(2) { animation-delay: 3.6s; }
+    .line:nth-of-type(3) { animation-delay: 7.2s; }
+    .line:nth-of-type(4) { animation-delay: 10.8s; }
+    .line:nth-of-type(5) { animation-delay: 14.4s; }
+    .line:nth-of-type(6) { animation-delay: 18s; }
+    .line:nth-of-type(7) { animation-delay: 21.6s; }
+    .cursor {
+      fill: #7c6aff;
+      animation: blink 0.85s steps(1) infinite;
+    }
+    @keyframes reveal {
+      0%, 1% { opacity: 0; }
+      4%, 11% { opacity: 1; }
+      14%, 100% { opacity: 0; }
+    }
+    @keyframes blink {
+      0%, 48% { opacity: 1; }
+      49%, 100% { opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .line { animation: none; }
+      .line:first-of-type { opacity: 1; }
+      .cursor { animation: none; }
+    }
+  </style>
+  <g transform="translate(0 29)">
+    <text class="line" x="390">From Combat Engineer to AI Engineer.</text>
+    <text class="line" x="390">Building AI agents that actually do real work.</text>
+    <text class="line" x="390">US Army — 10+ years | 2 deployments to Afghanistan.</text>
+    <text class="line" x="390">Shipping tend.host &amp; tenddash.</text>
+    <text class="line" x="390">RadioDune — 50,000+ stations, 100K+ podcasts, 14 languages.</text>
+    <text class="line" x="390">360° photographer / drone pilot / gym guy.</text>
+    <text class="line" x="390">Father of four + one very opinionated cat named Bailey.</text>
+    <rect class="cursor" x="766" y="-15" width="2" height="19" rx="1"/>
+  </g>
+</svg>

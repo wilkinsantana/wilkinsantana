@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=7C6AFF&center=true&vCenter=true&width=780&lines=From+Combat+Engineer+to+AI+Engineer.;Building+AI+agents+that+actually+do+real+work...;US+Army+%E2%80%94+10%2B+years+%7C+2+deployments+to+Afghanistan.;Shipping+tend.host+%26+tenddash+%F0%9F%9A%80;RadioDune+%E2%80%94+50%2C000%2B+stations%2C+100K%2B+podcasts%2C+14+languages.;360%C2%B0+photographer+%2F+drone+pilot+%2F+gym+guy.;Father+of+four+%2B+one+very+opinionated+cat+named+Bailey." alt="Typing SVG" />
+  <img src="./assets/typing.svg" width="780" alt="Animated introduction: Combat Engineer, AI Engineer, builder, veteran, and creator" />
 </div>
 
 <br/>
@@ -133,13 +133,7 @@ graph LR
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wilkinsantana&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7C6AFF&fire=7C6AFF&currStreakLabel=a89cff&sideLabels=a89cff&currStreakNum=ffffff&sideNums=ffffff&dates=666688" width="60%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wilkinsantana&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wilkinsantana&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wilkinsantana&theme=tokyonight&hide_border=true&utcOffset=-5" width="32%" />
+  <img src="./assets/profile-stats.svg" width="100%" alt="Wilkin Santana's GitHub statistics and most-used languages" />
 </div>
 
 ---
