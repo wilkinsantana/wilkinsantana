@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "adapter": "sveltekit",
+  "content": {
+    "posts": "src/lib/posts"
+  },
+  "media": {
+    "provider": "repository",
+    "directory": "static/images",
+    "publicPath": "/images"
+  },
+  "i18n": {
+    "defaultLocale": "en-US",
+    "locales": ["en-US"],
+    "strategy": "multiple_folders"
+  },
+  "build": {
+    "script": "build",
+    "output": "build"
+  }
+}
